@@ -1,1 +1,1 @@
-# sifirdan-programlama-ve-algoritma
+# Sıfırdan Programlama ve Algoritma
